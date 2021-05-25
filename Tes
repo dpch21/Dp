@@ -2449,6 +2449,59 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 ++++++++++++++++++++++++++++++++++
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) AR: Aroma WWE
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/225332
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) UK: WWE HD
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/11484
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) UK: WWE PPV
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/192859
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) DE: WWE HD
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/63347
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) US: WWE 24
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/58004
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) US: WWE FHD
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/3385
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) US: WWE Network FHD
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/2373
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) US: WWE PPV 2020
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/201101
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) TR: WWE SMACKDOWN HD
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/197538
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) PT: WWE NETWORK HD
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/198737
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) ZA: SuperSport WWE HD
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/201120
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) AE: OSN WWE HD
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/71106
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) AE: OSN WWE Network
+http://iptvtree.net:8080/outputDPchecker/9kyZXqC7MwVbkMnJmf/266926
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) EN: WWE Evolution (2018)
+http://iptvtree.net:8080/movie/outputDPchecker/9kyZXqC7MwVbkMnJmf/108445.mkv
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) EN: WWE Royal Rumble (2019)
+http://iptvtree.net:8080/movie/outputDPchecker/9kyZXqC7MwVbkMnJmf/110073.mkv
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) DE: Dr Boehmermanns Struwwelpeter (2018)
+http://iptvtree.net:8080/movie/outputDPchecker/9kyZXqC7MwVbkMnJmf/99536.mkv
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DP@WWE", (DP) DE: Mein WWE Main Event (2020)
+http://iptvtree.net:8080/movie/outputDPchecker/9kyZXqC7MwVbkMnJmf/223538.mkv
+
++++++++
+
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/babytv.png" group-title="DP@KIDS", BABY TV
 http://rec2.distv.net:80/aurora/123456/117
